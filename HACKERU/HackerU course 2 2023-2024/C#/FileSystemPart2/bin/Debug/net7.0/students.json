@@ -1,0 +1,124 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "name": "Alice",
+            "age": 20,
+            "courses": ["Math", "Physics"]
+        },
+        {
+            "id": 1,
+            "name": "Bob",
+            "age": 21,
+            "courses": ["Chemistry", "Biology"]
+        },
+        {
+            "id": 3,
+            "name": "Charlie",
+            "age": 22,
+            "courses": ["History", "Geography"]
+        },
+        {
+            "id": 4,
+            "name": "David",
+            "age": 23,
+            "courses": ["Literature", "Music"]
+        },
+        {
+            "id": 5,
+            "name": "Eva",
+            "age": 20,
+            "courses": ["Dance", "Art"]
+        },
+        {
+            "id": 6,
+            "name": "Frank",
+            "age": 21,
+            "courses": []
+        },
+        {
+            "id": 7,
+            "name": "Grace",
+            "age": 24,
+            "courses": ["Physics", "History"]
+        },
+        {
+            "id": 8,
+            "name": "Hannah",
+            "age": 25,
+            "courses": ["Math", "Geography"]
+        },
+        {
+            "id": 9,
+            "name": "Ian",
+            "age": 26,
+            "courses": ["Chemistry", "Physics"]
+        },
+        {
+            "id": 10,
+            "name": "Jasmine",
+            "age": 27,
+            "courses": ["Biology", "Literature"]
+        },
+        {
+            "id": 11,
+            "name": "Kevin",
+            "age": 28,
+            "courses": ["Music", "History"]
+        },
+        {
+            "id": 12,
+            "name": "Lana",
+            "age": 29,
+            "courses": ["Art", "Dance"]
+        },
+        {
+            "id": 13,
+            "name": "Mike",
+            "age": 30,
+            "courses": ["Geography", "Music"]
+        },
+        {
+            "id": 14,
+            "name": "Nina",
+            "age": 31,
+            "courses": ["Literature", "Biology"]
+        },
+        {
+            "id": 15,
+            "name": "Oscar",
+            "age": 32,
+            "courses": ["Physics", "Chemistry"]
+        },
+        {
+            "id": 16,
+            "name": "Paula",
+            "age": 33,
+            "courses": ["History", "Art"]
+        },
+        {
+            "id": 17,
+            "name": "Quinn",
+            "age": 34,
+            "courses": ["Math", "Literature"]
+        },
+        {
+            "id": 18,
+            "name": "Rebecca",
+            "age": 35,
+            "courses": ["Music", "Physics","Biology"]
+        },
+        {
+            "id": 19,
+            "name": "Sam",
+            "age": 36,
+            "courses": ["Biology", "Geography"]
+        },
+        {
+            "id": 20,
+            "name": "Tina",
+            "age": 37,
+            "courses": ["Art", "Dance"]
+        }
+    ]
+}
